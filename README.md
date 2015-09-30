@@ -9,4 +9,5 @@
 
 ### Directives
 * [List of modules](https://ngmodules.com/?page=8)
-* [Sorting stuff](http://rubaxa.github.io/Sortable/)
+* [Sorting stuff with drag and drop](http://rubaxa.github.io/Sortable/)
+* [Drag and Drop](http://codef0rmer.github.io/angular-dragdrop/#/list)
