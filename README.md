@@ -11,3 +11,7 @@
 * [List of modules](https://ngmodules.com/?page=8)
 * [Sorting stuff with drag and drop](http://rubaxa.github.io/Sortable/)
 * [Drag and Drop](http://codef0rmer.github.io/angular-dragdrop/#/list)
+
+### Other
+http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect
+https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3
