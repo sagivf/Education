@@ -8,5 +8,5 @@
 [![npm version](https://badge.fury.io/js/angular.svg)](http://badge.fury.io/js/angular)
 
 ### Directives
-* [List](https://ngmodules.com/?page=8)
+* [List of modules](https://ngmodules.com/?page=8)
 * [Sorting stuff](http://rubaxa.github.io/Sortable/)
