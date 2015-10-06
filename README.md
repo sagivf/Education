@@ -12,6 +12,10 @@
 * [Sorting stuff with drag and drop](http://rubaxa.github.io/Sortable/)
 * [Drag and Drop](http://codef0rmer.github.io/angular-dragdrop/#/list)
 
+### NodeJS
+* [Coding School Presentation on Node.js Streams & Pipes] https://www.youtube.com/watch?v=OeqnIuTMod4
+* 
 ### Other
 http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect
 https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3
+
