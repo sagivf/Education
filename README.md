@@ -25,6 +25,12 @@
 ### Functional Programing
 * [Simple but nice]  https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
 
+### OS
+* [Mac show/hide files]  http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/
+
+### Web PLugins
+
+
 ### Other
 * [Image crop] http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect
 * [Graph recommendation] https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3
