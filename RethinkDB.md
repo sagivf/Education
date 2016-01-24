@@ -4,3 +4,4 @@
 ## Rethink
 http://knowthen.com/
 https://github.com/thejsj/rethinkdb-proxy
+* [2.1 - Clustring] https://www.youtube.com/watch?v=7etkRryqODY
