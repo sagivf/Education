@@ -31,3 +31,7 @@ http://build-podcast.com/docker/
 https://github.com/marak/Faker.js/
 http://pouchdb.com/api.html
 https://opbeat.com/nodejs/?utm_source=nodeweekly&utm_medium=ad&utm_content=&utm_campaign=nodebeta
+
+### TO Follow
+https://www.talater.com/annyang/
+https://www.talater.com/upup/
