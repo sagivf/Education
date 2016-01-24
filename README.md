@@ -17,10 +17,10 @@
 * [Plugins](Plugins.md)
 
 ### TO Follow
+### TO Follow
 * [Image crop](http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect)
 * [Graph recommendation](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [FastDom](https://github.com/wilsonpage/fastdom)
-* [Cool person](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 http://build-podcast.com/mocha/
 http://build-podcast.com/oh-my-zsh/
 http://build-podcast.com/ssh/
