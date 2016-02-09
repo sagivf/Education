@@ -1,6 +1,10 @@
 #### Build Ionic:
 ionic build android --release -- --minSdkVersion 21
 
+### CPU
+top
+vtop https://parall.ax/vtop
+
 #### Mac disc usage:
 * df -h
 * du -sh *

@@ -1,6 +1,5 @@
 # *A curated list of helpful material*
 
-
 ## Tips, tricks, resources, and more!
 * [CMD](CMD.md)
 * [Javascript](Javascript.md)
@@ -11,27 +10,29 @@
 * [React](React.md)
 * [CSS](Css.md)
 * [OS](OS.md)
-* [Git](Plugins.md)ore 
+* [Git](Plugins.md)
 * [RethinkDB](RethinkDB.md)
 * [Vagrant](Vagrant.md)
-* [Plugins](Plugins.md)
+* [Docker](Docker.md)
+* [Web Plugins](Plugins.md)
+* [IDEA](IDEA.md)
 
-### TO Follow
-### TO Follow
+## TO Follow
 * [Image crop](http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect)
 * [Graph recommendation](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [FastDom](https://github.com/wilsonpage/fastdom)
-http://build-podcast.com/mocha/
-http://build-podcast.com/oh-my-zsh/
-http://build-podcast.com/ssh/
-https://github.com/esdoc/esdoc
-https://www.youtube.com/watch?v=ZxaVNGSax80&feature=player_embedded
-https://www.jetbrains.com/webstorm/help/edit-template-variables-dialog.html
-http://build-podcast.com/docker/
-https://github.com/marak/Faker.js/
-http://pouchdb.com/api.html
-https://opbeat.com/nodejs/?utm_source=nodeweekly&utm_medium=ad&utm_content=&utm_campaign=nodebeta
+* https://github.com/esdoc/esdoc
+* https://github.com/marak/Faker.js/
+* http://pouchdb.com/api.html
+* https://opbeat.com/nodejs/?utm_source=nodeweekly&utm_medium=ad&utm_content=&utm_campaign=nodebeta
+* https://www.talater.com/annyang/
+* https://www.talater.com/upup/
 
-### TO Follow
-https://www.talater.com/annyang/
-https://www.talater.com/upup/
+## TODO
+* http://build-podcast.com/oh-my-zsh/
+* http://build-podcast.com/ssh/
+* http://build-podcast.com/docker/
+* http://build-podcast.com/Atom
+* http://build-podcast.com/Redis
+
+

@@ -13,3 +13,10 @@ https://egghead.io/lessons/javascript-javascript-regular-expressions-use-shortha
 
 ## Chrome dev tools
 * [debug] https://developer.chrome.com/devtools/docs/commandline-api#debugfunction
+
+## Streams
+https://jakearchibald.com/2016/streams-ftw/
+
+
+## Performance
+https://umaar.com/dev-tips/84-console-timestamp-timeline/
