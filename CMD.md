@@ -1,6 +1,10 @@
 #### Build Ionic:
 ionic build android --release -- --minSdkVersion 21
 
+### Processes
+* [search] ps aux | grep mysqld
+* [search/grep] pgrep rethinkdb
+
 ### CPU
 top
 vtop https://parall.ax/vtop
