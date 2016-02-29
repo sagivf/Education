@@ -11,3 +11,11 @@ http://www.codingdefined.com/2016/01/web-scraping-libraries-for-nodejs.html?utm_
 ### Security
 https://blog.risingstack.com/node-js-security-checklist/?utm_source=javascriptweekly&utm_medium=email
 https://github.com/venables/koa-helmet
+https://nvisium.com/blog/2015/03/12/nodejs-put-helmet-on/
+
+### Maybe
+https://github.com/evantahler/actionhero
+
+## Nice
+https://github.com/Microsoft/nodejs-guidelines
+https://github.com/mattkrick/meatier

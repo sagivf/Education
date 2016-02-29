@@ -15,6 +15,7 @@
 * [Vagrant](Vagrant.md)
 * [Docker](Docker.md)
 * [Web Plugins](Plugins.md)
+* [Design](Design.md)
 * [IDEA](IDEA.md)
 
 ## TO Follow
@@ -29,6 +30,7 @@
 * https://www.talater.com/upup/
 
 ## TODO
+* http://jgthms.com/lavalamp.js/lavalamp.html
 * http://build-podcast.com/oh-my-zsh/
 * http://build-podcast.com/ssh/
 * http://build-podcast.com/docker/
