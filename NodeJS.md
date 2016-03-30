@@ -7,6 +7,8 @@
 
 ### Crawler
 http://www.codingdefined.com/2016/01/web-scraping-libraries-for-nodejs.html?utm_source=nodeweekly&utm_medium=email
+https://github.com/cheeriojs/cheerio
+https://github.com/lapwinglabs/x-ray
 
 ### Security
 https://blog.risingstack.com/node-js-security-checklist/?utm_source=javascriptweekly&utm_medium=email
@@ -19,3 +21,4 @@ https://github.com/evantahler/actionhero
 ## Nice
 https://github.com/Microsoft/nodejs-guidelines
 https://github.com/mattkrick/meatier
+
