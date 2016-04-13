@@ -2,6 +2,7 @@
 
 ## Tips, tricks, resources, and more!
 * [CMD](CMD.md)
+* [Security](Security.md)
 * [Javascript](Javascript.md)
 * [NodeJS](NodeJS.md)
 * [DevTools](DevTools.md)
@@ -15,7 +16,7 @@
 * [Vagrant](Vagrant.md)
 * [Docker](Docker.md)
 * [Web Plugins](Plugins.md)
-* [Design](Design.md)
+* [Designs](Designs.md)
 * [IDEA](IDEA.md)
 
 ## TO Follow
