@@ -6,6 +6,7 @@ https://egghead.io/lessons/javascript-advanced-reduce-additional-reducer-argumen
 
 ## RegEx
 https://egghead.io/lessons/javascript-javascript-regular-expressions-use-shorthand-to-find-common-sets-of-characters
+http://regexr.com/
 
 ## Async
 * [Native promises](http://ponyfoo.com/articles/es6-promises-in-depth?utm_source=javascriptweekly&utm_medium=email)
