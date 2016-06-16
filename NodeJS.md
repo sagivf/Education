@@ -22,3 +22,6 @@ https://github.com/evantahler/actionhero
 https://github.com/Microsoft/nodejs-guidelines
 https://github.com/mattkrick/meatier
 
+## Error Handling
+https://trackjs.com/blog/video-javascript-forensics/
+
