@@ -20,13 +20,14 @@
 * [IDEA](IDEA.md)
 
 ## TO Follow
+* https://github.com/javascipt/node-youtube
 * [Image crop](http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect)
 * [Graph recommendation](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [FastDom](https://github.com/wilsonpage/fastdom)
 * https://github.com/esdoc/esdoc
 * https://github.com/marak/Faker.js/
 * http://pouchdb.com/api.html
-* https://opbeat.com/nodejs/?utm_source=nodeweekly&utm_medium=ad&utm_content=&utm_campaign=nodebeta
+* https://opbeat.com/nodejs/
 * https://www.talater.com/annyang/
 * https://www.talater.com/upup/
 

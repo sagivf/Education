@@ -21,6 +21,12 @@ https://github.com/evantahler/actionhero
 ## Nice
 https://github.com/Microsoft/nodejs-guidelines
 https://github.com/mattkrick/meatier
+https://github.com/sindresorhus/np
+
+## NPM
+https://gist.github.com/jamischarles/1669accda0f057df1769c6c0e932827f
+https://docs.npmjs.com/cli/completion
+
 
 ## Error Handling
 https://trackjs.com/blog/video-javascript-forensics/
