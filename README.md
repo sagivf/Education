@@ -1,4 +1,6 @@
-# *A curated list of helpful material*
+<a href="https://sagivf.github.io/">
+    <image src="favicon.png"/>
+</a>
 
 ## Tips, tricks, resources, and more!
 * [CMD](CMD.md)
