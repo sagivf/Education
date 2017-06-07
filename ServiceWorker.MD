@@ -1,1 +1,2 @@
-https://bitsofco.de/the-service-worker-lifecycle
+## Resources
+* https://bitsofco.de/the-service-worker-lifecycle

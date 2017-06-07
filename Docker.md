@@ -1,18 +1,11 @@
-https://build-podcast.com/docker/
+## Useful Docker Commands
 
-
-http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/?utm_source=nodeweekly&utm_medium=email
-
-#Useful Docker Commands
-
-##Docker Machine
-
+### Docker Machine
 - `docker-machine start` - Start VM
 - `docker-machine stop` - Stop VM
 - `docker-machine env` - Display Docker client setup commands
 
-##Docker Client
-
+### Docker Client
 - `docker <command> --help` - Get help on a specific command
 - `docker pull <Name of Image>` - Pull image from Docker Hub
 - `docker images` - Show all images
@@ -27,12 +20,16 @@ http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/?utm_source=
 - `docker login` - Login using your Docker credentials
 - `docker push <Your Image Name>` - Push an image to Docker hub
 
-## Docker Compose
-
+### Docker Compose
 - `docker-compose build` - Build images based on docker-compose 
 - `docker-compose up -d` - Start in daemon mode
 - `docker-compose logs` - Show logs from containers
 - `docker-compose up` - Start containers based on docker-compose
 - `docker-compose stop` - Stop containers
 - `docker-compose down` - Stop and remove containers
+
+## Resources
+* https://build-podcast.com/docker/
+* http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/
+
 
