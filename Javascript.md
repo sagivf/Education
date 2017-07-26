@@ -2,8 +2,9 @@
 * https://gist.github.com/staltz/868e7e9bc2a7b8c1f754an
 
 ### Functional Programing
-* [Simple but nice]  https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
-* https://www.pluralsight.com/courses/hardcore-functional-programming-javascript
+* [Simple but nice]( https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [mostly adequate guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html)
+* [hardcore functional programming](https://www.pluralsight.com/courses/hardcore-functional-programming-javascript)
 
 ## Array 
 * https://egghead.io/lessons/javascript-advanced-reduce-additional-reducer-arguments
@@ -22,3 +23,6 @@
 ## Performance
 * https://umaar.com/dev-tips/84-console-timestamp-timeline/
 * https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage/
+
+## React
+* https://egghead.io/lessons/javascript-redux-extracting-presentational-components-addtodo-footer-filterlink
