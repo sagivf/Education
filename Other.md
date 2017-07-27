@@ -8,6 +8,7 @@
 
 ## ServiceWorker
 * https://bitsofco.de/the-service-worker-lifecycle
+* http://blog.brakmic.com/intro-to-angular-2-part-6-serviceworkers/
 
 ## Security
 * https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage/

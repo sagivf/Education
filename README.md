@@ -14,6 +14,8 @@
 * [Git](Plugins.md)
 * [IDEA](IDEA.md)
 * [Docker](Docker.md)
+* [MongoDB](MongoDB.md)
+* [Other](Other.md)
 
 ## Web Dev
 * [Web Plugins](Plugins.md)

@@ -1,5 +1,8 @@
 ## RXJS
 * https://gist.github.com/staltz/868e7e9bc2a7b8c1f754an
+* https://egghead.io/lessons/rxjs-convert-rxjs-subjects-to-observables
+* https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93
+* https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
 
 ### Functional Programing
 * [Simple but nice]( https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
