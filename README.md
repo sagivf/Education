@@ -3,13 +3,13 @@
 </a>
 
 ## Tips, tricks, resources!
+* [CMD](CMD.md)
 * [Javascript](Javascript.md)
 * [RethinkDB](RethinkDB.md)
 * [NodeJS](NodeJS.md)
 * [Angular](Angular.md)
 * [DevTools](DevTools.md)
 * [Typescript](Typescript.md)
-* [CMD](CMD.md)
 * [CSS](CSS.md)
 * [Git](Plugins.md)
 * [IDEA](IDEA.md)

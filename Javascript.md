@@ -1,3 +1,5 @@
+* http://bonsaiden.github.io/JavaScript-Garden/ 
+
 ## RXJS
 * https://gist.github.com/staltz/868e7e9bc2a7b8c1f754an
 * https://egghead.io/lessons/rxjs-convert-rxjs-subjects-to-observables
@@ -29,3 +31,4 @@
 
 ## React
 * https://egghead.io/lessons/javascript-redux-extracting-presentational-components-addtodo-footer-filterlink
+* https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2

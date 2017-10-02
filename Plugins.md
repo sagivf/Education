@@ -3,3 +3,4 @@
 * https://github.com/stutrek/scrollMonitor
 * http://desmonding.me/zooming/
 * https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/unload
+* https://github.com/hsnaydd/moveTo
