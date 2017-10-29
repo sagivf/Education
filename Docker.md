@@ -19,6 +19,9 @@
 - `docker build -f <Your Dockerfile> -t <Tag Name> .` - Build an image from a Dockerfile
 - `docker login` - Login using your Docker credentials
 - `docker push <Your Image Name>` - Push an image to Docker hub
+- `docker attach [OPTIONS] CONTAINER` - Login to container
+2) run - `docker-compose up --scale consumer=3 --scale ui=1 --scale publisher=1`
+3) Locate rjq-ui IP - `docker inspect rjqui_ui_1 | grep IPAddress`(:3000) 
 
 ### Docker Compose
 - `docker-compose build` - Build images based on docker-compose 
@@ -27,6 +30,16 @@
 - `docker-compose up` - Start containers based on docker-compose
 - `docker-compose stop` - Stop containers
 - `docker-compose down` - Stop and remove containers
+
+## Network modes
+* Find port - `sudo ip addr show docker0`
+
+* https://stackoverflow.com/a/24326540/1904390
+* https://docs.docker.com/engine/userguide/networking/#related-information
+
+## Enviroment variables
+* https://docs.docker.com/compose/environment-variables/
+* https://docs.docker.com/compose/env-file/
 
 ## Resources
 * https://build-podcast.com/docker/

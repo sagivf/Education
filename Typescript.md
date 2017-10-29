@@ -1,0 +1,1 @@
+* [Nice book](https://basarat.gitbooks.io/typescript/content/docs/template-strings.html)
