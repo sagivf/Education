@@ -1,3 +1,5 @@
+* [Sessions](http://nodewebapps.com/2017/06/18/how-do-nodejs-sessions-work/)
+
 ### Koa
 * [Pluralsight Course](https://app.pluralsight.com/library/courses/javascript-koa-introduction/table-of-contents)
 * [Knowthen Videos](http://knowthen.com/)
@@ -27,4 +29,7 @@
 
 ## Error Handling
 * https://trackjs.com/blog/video-javascript-forensics/
+
+## Sockets
+* https://hackernoon.com/scaling-websockets-9a31497af051
 

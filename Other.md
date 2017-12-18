@@ -12,3 +12,6 @@
 
 ## Security
 * https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage/
+
+## Charts
+* https://ecomfe.github.io/echarts-doc/public/en/index.html

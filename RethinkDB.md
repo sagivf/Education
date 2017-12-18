@@ -5,3 +5,4 @@
 * http://knowthen.com/
 * [2.1 - Clustring] https://www.youtube.com/watch?v=7etkRryqODY
 * [realtime sockets] https://github.com/markwatsonatx/tutorial-rethinkdb-nodejs-changes
+* [Live Count]https://gist.github.com/analytik/cd5b342023f497187e51c90f456261f4
